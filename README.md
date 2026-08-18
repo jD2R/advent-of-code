@@ -1,2 +1,3 @@
 # Advent of Code
-Horribly inefficient solutions to Advent of Code puzzles in Node.
+First solutions to the (Advent of Code)[https://adventofcode.com] puzzles, created by (Eric Wastl)[https://was.tl/].
+Written in Node.js.
